@@ -1,0 +1,8 @@
+com\cmfoodchain\orderdetails\domainbeans\CMFoodChain.class
+com\cmfoodchain\orderdetails\dao\CMFoodDao.class
+com\cmfoodchain\orderdetails\domainbeans\Orders.class
+com\cmfoodchain\orderdetails\cashengine\CashController.class
+com\cmfoodchain\orderdetails\domainbeans\Branch.class
+com\cmfoodchain\orderdetails\domainbeans\CMFoodChainReport.class
+com\cmfoodchain\orderdetails\domainbeans\FinalReport.class
+com\cmfoodchain\orderdetails\domainbeans\OrderDetail.class
